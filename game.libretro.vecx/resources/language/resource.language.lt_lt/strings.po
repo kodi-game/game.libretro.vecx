@@ -14,54 +14,52 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
-"19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
-"1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > 19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? 1 : 2);\n"
 
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Bloom brightness"
+msgid "Use Hardware Rendering"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Bloom width"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Line brightness"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Line width"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Hardware Rendering Resolution"
-msgstr ""
-
-msgctxt "#30006"
 msgid "Internal Resolution Multiplier"
 msgstr ""
 
+msgctxt "#30003"
+msgid "Hardware Rendering Resolution"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Line brightness"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Line width"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Bloom brightness"
+msgstr ""
+
 msgctxt "#30007"
-msgid "Scale vector display horizontally"
+msgid "Bloom width"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Scale vector display vertically"
+msgid "Scale vector display horizontally"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Horizontal shift"
+msgid "Scale vector display vertically"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Vertical shift"
+msgid "Horizontal shift"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Use Hardware Rendering"
+msgid "Vertical shift"
 msgstr ""
