@@ -15,8 +15,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">GCE - Vectrex (vecx) 1.2</summary>
-		<description lang="en_GB">Vecx is a Vectrex video game system emulator. It can run most Vectrex software.
 
 Written by Richard Bannister.
 
@@ -24,5 +22,11 @@ Supported files: .bin, .vec</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.vecx</source>
+		<summary lang="en_GB">GCE - Vectrex (vecx) 1.2</summary>
+		<description lang="en_GB">Vecx is a Vectrex video game system emulator. It can run most Vectrex software.
+
+Written by Richard Bannister.
+
+Supported files: .bin, .vec</description>
 	</extension>
 </addon>

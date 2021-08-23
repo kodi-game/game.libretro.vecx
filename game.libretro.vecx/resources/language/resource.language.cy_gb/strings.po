@@ -16,6 +16,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "GCE - Vectrex (vecx) 1.2"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Vecx is a Vectrex video game system emulator. It can run most Vectrex software.
+
+Written by Richard Bannister.
+
+Supported files: .bin, .vec"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
