@@ -24,6 +24,10 @@ msgctxt "Addon Description"
 msgid "Vecx is a Vectrex video game system emulator. It can run most Vectrex software."
 msgstr ""
 
+msgctxt "Addon Disclaimer"
+msgid "Written by Richard Bannister"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
