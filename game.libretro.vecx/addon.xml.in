@@ -19,8 +19,8 @@
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.vecx</source>
-		<disclaimer>Written by Richard Bannister</disclaimer>
 		<summary lang="en_GB">GCE - Vectrex (vecx) 1.2</summary>
 		<description lang="en_GB">Vecx is a Vectrex video game system emulator. It can run most Vectrex software.</description>
+		<disclaimer lang="en_GB">Written by Richard Bannister</disclaimer>
 	</extension>
 </addon>
