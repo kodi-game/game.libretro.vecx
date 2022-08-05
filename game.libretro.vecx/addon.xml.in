@@ -22,7 +22,9 @@
 		<summary lang="en_GB">GCE - Vectrex (vecx) 1.2</summary>
 		<description lang="da_DK">Vecx er en Vectrex videospilsystem emulator, der kan køre det meste Vectrex-software.</description>
 		<description lang="en_GB">Vecx is a Vectrex video game system emulator. It can run most Vectrex software.</description>
+		<description lang="zh_CN">Vecx 是 Vectrex 视频游戏系统模拟器。它可以运行大多数 Vectrex 软件。</description>
 		<disclaimer lang="da_DK">Skrevet af Richard Bannister</disclaimer>
 		<disclaimer lang="en_GB">Written by Richard Bannister</disclaimer>
+		<disclaimer lang="zh_CN">作者：Richard Bannister</disclaimer>
 	</extension>
 </addon>
