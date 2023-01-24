@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.vecx/resources/icon.png)
+![GCE - Vectrex (vecx) icon](game.libretro.vecx/resources/icon.png)
 
 ### Fanart
 
