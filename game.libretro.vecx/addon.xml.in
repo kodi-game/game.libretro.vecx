@@ -22,6 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">GCE - Vectrex (vecx)</summary>
 		<summary lang="en_GB">GCE - Vectrex (vecx)</summary>
 		<summary lang="es_ES">GCE - Vectrex (vecx)</summary>
 		<description lang="da_DK">Vecx er en Vectrex videospilsystem emulator, der kan køre det meste Vectrex-software.</description>
