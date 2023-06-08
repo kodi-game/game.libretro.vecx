@@ -25,6 +25,7 @@
 		<summary lang="da_DK">GCE - Vectrex (vecx)</summary>
 		<summary lang="en_GB">GCE - Vectrex (vecx)</summary>
 		<summary lang="es_ES">GCE - Vectrex (vecx)</summary>
+		<summary lang="zh_CN">GCE - Vectrex (vecx)</summary>
 		<description lang="da_DK">Vecx er en Vectrex videospilsystem emulator, der kan køre det meste Vectrex-software.</description>
 		<description lang="de_DE">Vecx ist ein Vectrex-Videospielsystem-Emulator. Er kann die meiste Vectrex-Software ausführen.</description>
 		<description lang="en_GB">Vecx is a Vectrex video game system emulator. It can run most Vectrex software.</description>
