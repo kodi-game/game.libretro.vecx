@@ -1,1 +1,1 @@
-vecx https://github.com/libretro/libretro-vecx/archive/8e932c1d585ae9e467186dea9e73ce38fe1490f7.tar.gz
+vecx https://github.com/libretro/libretro-vecx/archive/a401c268e425dc8ae6a301e7fdb9a9e96f39b8ea.tar.gz
