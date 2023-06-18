@@ -54,25 +54,53 @@ msgid "Line width"
 msgstr "线条宽度"
 
 msgctxt "#30006"
-msgid "Bloom brightness"
-msgstr "Bloom 亮度"
+msgid "Line color"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Bloom width"
-msgstr "Bloom 宽度"
+msgid "Bloom brightness"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Scale vector display horizontally"
-msgstr "水平缩放矢量显示"
+msgid "Bloom width"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Scale vector display vertically"
-msgstr "垂直缩放矢量显示"
+msgid "Scale vector display horizontally"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Horizontal shift"
-msgstr "水平移动"
+msgid "Scale vector display vertically"
+msgstr ""
 
 msgctxt "#30011"
+msgid "Horizontal shift"
+msgstr ""
+
+msgctxt "#30012"
 msgid "Vertical shift"
-msgstr "垂直移动"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Bloom brightness"
+#~ msgstr "Bloom 亮度"
+
+#~ msgctxt "#30007"
+#~ msgid "Bloom width"
+#~ msgstr "Bloom 宽度"
+
+#~ msgctxt "#30008"
+#~ msgid "Scale vector display horizontally"
+#~ msgstr "水平缩放矢量显示"
+
+#~ msgctxt "#30009"
+#~ msgid "Scale vector display vertically"
+#~ msgstr "垂直缩放矢量显示"
+
+#~ msgctxt "#30010"
+#~ msgid "Horizontal shift"
+#~ msgstr "水平移动"
+
+#~ msgctxt "#30011"
+#~ msgid "Vertical shift"
+#~ msgstr "垂直移动"

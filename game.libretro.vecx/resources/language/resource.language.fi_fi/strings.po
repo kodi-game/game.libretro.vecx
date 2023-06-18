@@ -54,25 +54,45 @@ msgid "Line width"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Bloom brightness"
-msgstr "Loisteen kirkkaus"
+msgid "Line color"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Bloom width"
-msgstr "Loisteen leveys"
+msgid "Bloom brightness"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Scale vector display horizontally"
+msgid "Bloom width"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Scale vector display vertically"
+msgid "Scale vector display horizontally"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Horizontal shift"
-msgstr "Vaakasiirto"
+msgid "Scale vector display vertically"
+msgstr ""
 
 msgctxt "#30011"
+msgid "Horizontal shift"
+msgstr ""
+
+msgctxt "#30012"
 msgid "Vertical shift"
-msgstr "Pystysiirto"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Bloom brightness"
+#~ msgstr "Loisteen kirkkaus"
+
+#~ msgctxt "#30007"
+#~ msgid "Bloom width"
+#~ msgstr "Loisteen leveys"
+
+#~ msgctxt "#30010"
+#~ msgid "Horizontal shift"
+#~ msgstr "Vaakasiirto"
+
+#~ msgctxt "#30011"
+#~ msgid "Vertical shift"
+#~ msgstr "Pystysiirto"

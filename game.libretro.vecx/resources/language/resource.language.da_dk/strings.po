@@ -54,25 +54,53 @@ msgid "Line width"
 msgstr "Linjebredde"
 
 msgctxt "#30006"
-msgid "Bloom brightness"
-msgstr "Blomstringens lysstyrke"
+msgid "Line color"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Bloom width"
-msgstr "Blomstringens bredde"
+msgid "Bloom brightness"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Scale vector display horizontally"
-msgstr "Skaler vektorvisning vandret"
+msgid "Bloom width"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Scale vector display vertically"
-msgstr "Skaler vektorvisning lodret"
+msgid "Scale vector display horizontally"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Horizontal shift"
-msgstr "Vandret forskydning"
+msgid "Scale vector display vertically"
+msgstr ""
 
 msgctxt "#30011"
+msgid "Horizontal shift"
+msgstr ""
+
+msgctxt "#30012"
 msgid "Vertical shift"
-msgstr "Lodret forskydning"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Bloom brightness"
+#~ msgstr "Blomstringens lysstyrke"
+
+#~ msgctxt "#30007"
+#~ msgid "Bloom width"
+#~ msgstr "Blomstringens bredde"
+
+#~ msgctxt "#30008"
+#~ msgid "Scale vector display horizontally"
+#~ msgstr "Skaler vektorvisning vandret"
+
+#~ msgctxt "#30009"
+#~ msgid "Scale vector display vertically"
+#~ msgstr "Skaler vektorvisning lodret"
+
+#~ msgctxt "#30010"
+#~ msgid "Horizontal shift"
+#~ msgstr "Vandret forskydning"
+
+#~ msgctxt "#30011"
+#~ msgid "Vertical shift"
+#~ msgstr "Lodret forskydning"

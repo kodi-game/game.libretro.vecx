@@ -54,25 +54,53 @@ msgid "Line width"
 msgstr "Ancho de Línea"
 
 msgctxt "#30006"
-msgid "Bloom brightness"
-msgstr "Luminosidad Bloom"
+msgid "Line color"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Bloom width"
-msgstr "Ancho Bloom"
+msgid "Bloom brightness"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Scale vector display horizontally"
-msgstr "Escalar horizontalmente la visualización vectorial"
+msgid "Bloom width"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Scale vector display vertically"
-msgstr "Escalar verticalmente la visualización vectorial"
+msgid "Scale vector display horizontally"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Horizontal shift"
-msgstr "Desplazamiento Horizontal"
+msgid "Scale vector display vertically"
+msgstr ""
 
 msgctxt "#30011"
+msgid "Horizontal shift"
+msgstr ""
+
+msgctxt "#30012"
 msgid "Vertical shift"
-msgstr "Desplazamiento Vertical"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Bloom brightness"
+#~ msgstr "Luminosidad Bloom"
+
+#~ msgctxt "#30007"
+#~ msgid "Bloom width"
+#~ msgstr "Ancho Bloom"
+
+#~ msgctxt "#30008"
+#~ msgid "Scale vector display horizontally"
+#~ msgstr "Escalar horizontalmente la visualización vectorial"
+
+#~ msgctxt "#30009"
+#~ msgid "Scale vector display vertically"
+#~ msgstr "Escalar verticalmente la visualización vectorial"
+
+#~ msgctxt "#30010"
+#~ msgid "Horizontal shift"
+#~ msgstr "Desplazamiento Horizontal"
+
+#~ msgctxt "#30011"
+#~ msgid "Vertical shift"
+#~ msgstr "Desplazamiento Vertical"

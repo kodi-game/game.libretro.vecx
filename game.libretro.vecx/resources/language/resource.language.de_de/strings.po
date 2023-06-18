@@ -54,25 +54,45 @@ msgid "Line width"
 msgstr "Linienbreite"
 
 msgctxt "#30006"
-msgid "Bloom brightness"
+msgid "Line color"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Bloom width"
+msgid "Bloom brightness"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Scale vector display horizontally"
-msgstr "Vektoranzeige horizontal skalieren"
+msgid "Bloom width"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Scale vector display vertically"
-msgstr "Vektoranzeige vertikal skalieren"
+msgid "Scale vector display horizontally"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Horizontal shift"
-msgstr "Horizontale Verschiebung"
+msgid "Scale vector display vertically"
+msgstr ""
 
 msgctxt "#30011"
+msgid "Horizontal shift"
+msgstr ""
+
+msgctxt "#30012"
 msgid "Vertical shift"
-msgstr "Vertikale Verschiebung"
+msgstr ""
+
+#~ msgctxt "#30008"
+#~ msgid "Scale vector display horizontally"
+#~ msgstr "Vektoranzeige horizontal skalieren"
+
+#~ msgctxt "#30009"
+#~ msgid "Scale vector display vertically"
+#~ msgstr "Vektoranzeige vertikal skalieren"
+
+#~ msgctxt "#30010"
+#~ msgid "Horizontal shift"
+#~ msgstr "Horizontale Verschiebung"
+
+#~ msgctxt "#30011"
+#~ msgid "Vertical shift"
+#~ msgstr "Vertikale Verschiebung"
