@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Richard Bannister"
 msgstr "Skrevet af Richard Bannister"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Use Hardware Rendering"
 msgstr "Brug hardware-rendering"
@@ -80,6 +76,10 @@ msgstr ""
 msgctxt "#30012"
 msgid "Vertical shift"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30006"
 #~ msgid "Bloom brightness"

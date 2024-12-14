@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Richard Bannister"
 msgstr "Escrito por Richard Bannister"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Use Hardware Rendering"
 msgstr "Utilizar Renderización por Hardware"
@@ -80,6 +76,10 @@ msgstr "Desplazamiento horizontal"
 msgctxt "#30012"
 msgid "Vertical shift"
 msgstr "Desplazamiento vertical"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "#30006"
 #~ msgid "Bloom brightness"

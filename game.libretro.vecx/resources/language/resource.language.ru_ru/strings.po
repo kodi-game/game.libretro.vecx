@@ -29,10 +29,6 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Richard Bannister"
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Настройки"
-
 msgctxt "#30001"
 msgid "Use Hardware Rendering"
 msgstr ""
@@ -80,3 +76,7 @@ msgstr ""
 msgctxt "#30012"
 msgid "Vertical shift"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Настройки"
