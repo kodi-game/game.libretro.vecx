@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="vecx_use_hw" values="Hardware|Software" default="Hardware"/>
 		<setting label="30002" type="select" id="vecx_res_multi" values="1|2|3|4" default="1"/>
 		<setting label="30003" type="select" id="vecx_res_hw" values="824x1024|434x540|515x640|580x720|618x768|845x1050|869x1080|966x1200|1159x1440|1648x2048" default="824x1024"/>
