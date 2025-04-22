@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.vecx\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-11-09 12:13i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2025-04-22 22:51+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-vecx/sv_se/>\n"
 "Language: sv_se\n"
@@ -29,12 +29,10 @@ msgctxt "Addon Disclaimer"
 msgid "Written by Richard Bannister"
 msgstr "Skrivet av Richard Bannister"
 
-#, fuzzy
 msgctxt "#30001"
 msgid "Use Hardware Rendering"
-msgstr "Använd rendering av hårdvara"
+msgstr "Använd hårdvarurendering"
 
-#, fuzzy
 msgctxt "#30002"
 msgid "Internal Resolution Multiplier"
 msgstr "Intern upplösningsmultiplikator"
@@ -43,47 +41,38 @@ msgctxt "#30003"
 msgid "Hardware Rendering Resolution"
 msgstr "Renderingsupplösning för hårdvara"
 
-#, fuzzy
 msgctxt "#30004"
 msgid "Line brightness"
 msgstr "Ljusstyrka på linjen"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "Line width"
 msgstr "Linjebredd"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "Line color"
 msgstr "Linjefärg"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Bloom brightness"
 msgstr "Ljusstyrka för blomning"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Bloom width"
 msgstr "Blomningens bredd"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Scale vector display horizontally"
 msgstr "Skala vektorvisningen horisontellt"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Scale vector display vertically"
 msgstr "Skala vektorvisningen vertikalt"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Horizontal shift"
 msgstr "Horisontell förskjutning"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Vertical shift"
 msgstr "Vertikal förskjutning"
