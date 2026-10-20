@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vecx"
 		name="GCE - Vectrex (vecx)"
-		version="1.2.0.53"
+		version="1.2.0.54"
 		provider-name="Valavan Manohararajah, John Hawthorn, Nikita Zimin, Demeth">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -15,6 +15,7 @@
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
 		<libretro_core>vecx_libretro</libretro_core>
+		<savestate_features>serialized</savestate_features>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
